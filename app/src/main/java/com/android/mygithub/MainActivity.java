@@ -7,7 +7,6 @@ import android.os.Bundle;
  * by song
  * by xxxx 网上就可以直接改了。。。
  * 第二次修改！！！
- *  杨耽第二次修改！！！
  */
 public class MainActivity extends AppCompatActivity {
 
