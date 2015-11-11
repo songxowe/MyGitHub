@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 /**
  * by song
- * by xxxx 到此一游
+ * by xxxx 网上就可以直接改了。。。
  */
 public class MainActivity extends AppCompatActivity {
 
